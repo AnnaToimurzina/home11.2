@@ -1,3 +1,5 @@
+'''функция, которая делает заглавными буквы каждого слова '''
+
 def capitalize_words(sentence):
     words = sentence.split()
     new_words = []
